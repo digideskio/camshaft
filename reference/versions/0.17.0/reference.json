@@ -56,7 +56,7 @@
                 "source": {
                     "type": "node",
                     "geometry": [
-                        "point",
+                        m
                         "polygon"
                     ]
                 },
@@ -170,6 +170,7 @@
                 "source": {
                     "type": "node",
                     "geometry": [
+                        "point",
                         "polygon"
                     ]
                 },
